@@ -1,2 +1,2 @@
 # Rhythmic
-rhythm game for musicians
+2d pixel platformer game
